@@ -1,3 +1,3 @@
 # LeetCode_C
-LeetCode for C 
+LeetCode solved by C 
 
